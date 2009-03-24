@@ -1,10 +1,15 @@
 body {
-font-family:courier new, monospace;
+font-family: courier new, monospace;
 font-size: 15px;
-background-image:url("grid.gif");
+background-image: url("grid.gif");
 }
 
 a {
-color: blue;
+color: #001170;
 text-decoration:none;
+}
+
+#pdf {
+position:relative;
+top: 4em;
 }
